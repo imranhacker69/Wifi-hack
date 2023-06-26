@@ -21,8 +21,8 @@ print('''
 \033[1;92m Recoded By THBD
 BiRi_B@B@
 Telegram:https://t.me/Imran_Husaein
-One line Command:\nsudo python Wifi_Hack/birihack.py -i wlan0 -K\n
-For Help Type:\npython Wifi_Hack/birihack.py --help\033[0m
+One line Command:\nsudo python Wifi_Hack/hacker69.py -i wlan0 -K\n
+For Help Type:\npython Wifi_Hack/hacker69.py --help\033[0m
 ''')
 class NetworkAddress:
     def __init__(self, mac):
