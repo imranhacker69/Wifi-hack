@@ -11,11 +11,11 @@ $ pkg install -y root-repo
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
 $ git clone https://github.com/imranhacker69/Wifi-hack
 $ cd Wifi_Hack
-$ chmod +x birihack.py
-$ sudo python birihack.py --help
+$ chmod +x hacker69.py
+$ sudo python hacker69.py --help
 ```
 
-#### Example : `sudo python birihack.py -i wlan0 -K`
+#### Example : `sudo python hacker69.py -i wlan0 -K`
 
 #### Note: 
 **First turn off your Wifi.**
