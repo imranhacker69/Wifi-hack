@@ -6,13 +6,14 @@
 ### Installation :
 
 ```bash
-$ apt update && apt upgrade
-$ pkg install -y root-repo
-$ pkg install -y git tsu python wpa-supplicant pixiewps iw
-$ git clone https://github.com/imranhacker69/Wifi-hack
-$ cd Wifi_Hack
-$ chmod +x hacker69.py
-$ sudo python hacker69.py --help
+ apt update && apt upgrade
+ pkg install -y root-repo
+ pkg install -y git tsu python wpa-supplicant pixiewps iw
+ git clone https://github.com/imranhacker69/Wifi-hack
+ cd Wifi_Hack
+ chmod +x hacker69.py
+bash hacker69.py
+ sudo python hacker69.py --help
 ```
 
 #### Example : `sudo python hacker69.py -i wlan0 -K`
